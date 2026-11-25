@@ -1,0 +1,16 @@
+{
+  "provider": "openrouter",
+  "model": "baidu/ernie-5.5-flash-preview:free",
+  "model_version": "openrouter:baidu/ernie-5.5-flash-preview:free",
+  "prompt_version": "classification_v1",
+  "rows_evaluated": 54,
+  "predictions": 53,
+  "failures": 1,
+  "coverage": 0.981481,
+  "evaluation_status": "incomplete",
+  "metrics_warning": "Metrik tidak dihitung karena sebagian gold set gagal dipanggil atau tidak menghasilkan prediksi.",
+  "failure_ids": {
+    "06172a6fea4fa86f1181": "HTTP 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day: https://openrouter.ai/settings/credits?utm_source=api&utm_campaign=free_daily_limit\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1795564800000\"},\"limit_source\":\"openrouter_free_tier_daily\",\"remedy_hint\":\"Wait for the daily reset (see X-RateLimit-Reset), or purchase credits to raise your free-model daily limit.\",\""
+  },
+  "metrics": null
+}

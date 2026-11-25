@@ -1,0 +1,150 @@
+{
+  "input_file": "D:\\MAGANGHUB BATCH 3\\Scraper\\geolocation3\\data\\interim\\quality_control\\newswatch_preprocessed.csv",
+  "rows_read": 4083,
+  "rows_written": 4083,
+  "text_cleaning": {
+    "preserved_raw_content": true,
+    "content_clean_field": "content_clean",
+    "html_rows_detected": 0,
+    "rows_with_boilerplate_markers": 361,
+    "rows_with_unicode_replacement_char": 0,
+    "rows_with_special_characters_normalized": 1868,
+    "replacement_character_policy": "U+FFFD replaced with a space in content_clean; content_raw is preserved"
+  },
+  "deduplication": {
+    "exact_url_already_aggregated_in_phase_1": true,
+    "exact_duplicate_relations": 2,
+    "near_duplicate_method": "sparse TF-IDF cosine similarity (unigrams; title weighted 4x)",
+    "similarity_threshold": 0.9,
+    "max_document_frequency_ratio": 0.2,
+    "near_duplicate_candidate_pairs": 20,
+    "near_duplicate_relations_assigned": 0,
+    "articles_removed": 0,
+    "duplicate_link_field": "duplicate_of",
+    "manual_review_sample_size": 20,
+    "manual_review_status": "pending",
+    "manual_review_counts": {
+      "pending": 20
+    },
+    "manual_review_file": null
+  },
+  "language": {
+    "method": "common Indonesian/English word counts; low-confidence text marked und",
+    "distribution": {
+      "en": 30,
+      "id": 4013,
+      "und": 40
+    },
+    "indonesia_output_rule": "language_code is id or und; en/other are excluded from articles_indonesia.csv and retained in articles_clean.csv"
+  },
+  "distribution": {
+    "source": {
+      "www.metrotvnews.com": 951,
+      "kompas.com": 697,
+      "antaranews.com": 588,
+      "jawapos.com": 518,
+      "liputan6.com": 318,
+      "republika.co.id": 165,
+      "rri.co.id": 143,
+      "harianjogja.com": 137,
+      "beritasatu.com": 126,
+      "viva.co.id": 102,
+      "idntimes.com": 74,
+      "mongabay.co.id": 53,
+      "sindonews.com": 53,
+      "inews.id": 41,
+      "suara.com": 37,
+      "okezone.com": 31,
+      "cnnindonesia.com": 12,
+      "betahita.id": 12,
+      "bbc.com": 10,
+      "beritajatim": 9,
+      "tvonenews.com": 2,
+      "harianrakyataceh.com": 2,
+      "bmkg.go.id": 1,
+      "detik.com": 1
+    },
+    "month": {
+      "2024-01": 11,
+      "2024-02": 10,
+      "2024-03": 28,
+      "2024-04": 37,
+      "2024-05": 15,
+      "2024-06": 8,
+      "2024-07": 12,
+      "2024-08": 24,
+      "2024-09": 29,
+      "2024-10": 12,
+      "2024-11": 39,
+      "2024-12": 39,
+      "2025-01": 24,
+      "2025-02": 23,
+      "2025-03": 34,
+      "2025-04": 21,
+      "2025-05": 17,
+      "2025-06": 46,
+      "2025-07": 85,
+      "2025-08": 32,
+      "2025-09": 23,
+      "2025-10": 36,
+      "2025-11": 34,
+      "2025-12": 43,
+      "2026-01": 89,
+      "2026-02": 92,
+      "2026-03": 55,
+      "2026-04": 114,
+      "2026-05": 98,
+      "2026-06": 208,
+      "2026-07": 158,
+      "2026-08": 524,
+      "2026-09": 841,
+      "2026-10": 567,
+      "2026-11": 655
+    }
+  },
+  "metrics": {
+    "input_articles": 4083,
+    "articles_with_duplicate_of": 2,
+    "exact_duplicate_relations": 2,
+    "unique_normalized_urls": 4083,
+    "exact_url_duplicate_groups": 0,
+    "near_duplicate_candidate_pairs": 20,
+    "near_duplicate_relations_assigned": 0,
+    "near_duplicate_reviews": {
+      "pending": 20
+    },
+    "similarity_threshold": 0.9,
+    "language_heuristic": "common Indonesian/English word counts; low-confidence text marked und",
+    "language_id": 4013,
+    "language_en": 30,
+    "language_other": 0,
+    "language_und": 40,
+    "articles_in_indonesia_output": 4053,
+    "articles_in_prompt_output": 4051,
+    "duplicate_exact_articles_excluded_from_prompt": 2,
+    "processed_output_dir": "D:\\MAGANGHUB BATCH 3\\Scraper\\geolocation3\\data\\processed",
+    "interim_output_dir": "D:\\MAGANGHUB BATCH 3\\Scraper\\geolocation3\\data\\interim\\deduplication",
+    "excluded_as_non_indonesian": 30,
+    "encoding_replacement_rows": 0,
+    "special_character_normalization_rows": 1868,
+    "rows_with_html_markup": 0,
+    "rows_with_boilerplate_markers": 361
+  },
+  "output_files": {
+    "processed": [
+      "articles_clean.csv",
+      "articles_indonesia.csv",
+      "articles_prompt.csv"
+    ],
+    "interim": [
+      "duplicate_pairs.csv",
+      "near_duplicate_manual_review.csv",
+      "quality_metrics.csv",
+      "source_distribution.csv",
+      "monthly_distribution.csv",
+      "language_distribution.csv",
+      "quality_summary.svg",
+      "quality_report.json"
+    ]
+  }
+}

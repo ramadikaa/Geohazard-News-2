@@ -1,0 +1,2642 @@
+{
+  "da8ecd9eff194da7c367": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "PT Pertamina Hulu Energi Offshore North West Java (PHE ONWJ) menyerahkan 5.000 bibit mangrove sebagai upaya mitigasi abrasi di wilayah pesisir utara Jawa Barat.",
+    "confidence": 0.95
+  },
+  "9a3674f37b19d5c3c20e": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": true,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Ancaman bencana rob dan penurunan permukaan tanah (land subsidence) di wilayah pesisir Pantura membutuhkan penanganan kolektif.",
+    "confidence": 0.95
+  },
+  "1e4730698616a83a07f0": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": true,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Ekspedisi Merah Putih Presisi Polda Riau melakukan misi kemanusiaan serta pemulihan lingkungan di kawasan terdampak abrasi kawasan Desa Kuala Selat, Kecamatan Kateman, Kabupaten Indragiri Hilir.",
+    "confidence": 0.95
+  },
+  "f8d8ad05fbaf45cbe76a": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Ini juga bentuk dukungan dari isu lingkungan, di mana penggunaan air tanah tidak lagi digunakan oleh warga Jakarta karena ada penurunan tanah 10 sentimeter per tahun",
+    "confidence": 0.95
+  },
+  "ff476a46a37c96612129": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "amblesan tanah di Pantura Jawa telah terjadi sejak beberapa dekade lalu, dimulai dari 1970-an di Jakarta, 1980-an di Semarang, dan 1985 di Pekalongan. Proses ini telah berlangsung cukup lama dan masih terus berlanjut hingga saat ini.",
+    "confidence": 0.95
+  },
+  "5ec55b375b2d15cc5d3c": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": true,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Sekitar 1.700 hektare kebun masyarakat di kawasan tersebut tercatat terdampak abrasi pada 2021.",
+    "confidence": 0.95
+  },
+  "2357e52c735b7c7fbe4d": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": true
+    },
+    "evidence_text": "Warga Desa Roburan Dolok, Khoirudin Nasution, menyebutkan semburan lumpur panas terjadi di berbagai wilayah di desanya. Pemantauan yang dilakukannya bersama Wahana Lingkungan Hidup Indonesia (Walhi) Sumatera Utara menunjukkan terdapat 21 titik semburan lumpur panas.",
+    "confidence": 0.98
+  },
+  "4f8c5d6b98efd7fafd6a": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": true,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Seorang balita berusia 2 tahun 7 bulan, Kayla Faradisa, ditemukan meninggal dunia setelah tertimbun tanah longsor di kawasan Simpang Tiga Uning, Kecamatan Linge, Kabupaten Aceh Tengah.",
+    "confidence": 0.98
+  },
+  "1e625e4cfc167aab35b5": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": true,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) terus memantau potensi fenomena geologi likuefaksi setelah gempa besar M6,7 mengguncang Palu, Sulawesi Tengah, pada Senin (16/6/2026).",
+    "confidence": 0.95
+  },
+  "556c498133d4e09c5ef3": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": true,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Pendekatan berbasis alam atau Nature-based Solutions (NbS) menjadi salah satu upaya untuk menangani abrasi, banjir rob, dan penurunan muka tanah di kawasan pesisir.",
+    "confidence": 0.95
+  },
+  "cba86b495a8a2beb4a4a": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": true,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Abrasi menjadi salah satu ancaman yang semakin penting di kawasan pesisir pantai utara (Pantura) Jawa. Salah satu upaya mitigasi adalah memperkuat kawasan mangrove sebagai benteng alam.",
+    "confidence": 0.95
+  },
+  "49efc715ddf62de88feb": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Korban diduga tewas akibat menghirup gas beracun di dalam palka banker.",
+    "confidence": 0.98
+  },
+  "f702f9d9589931909c77": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Kebonharjo dipilih karena menjadi salah satu wilayah yang paling terdampak penurunan muka tanah.",
+    "confidence": 0.95
+  },
+  "1cc80a2689379cfb1820": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Ikatan Ahli Bencana Indonesia (IABI) menegaskan pentingnya menjadikan kesiapsiagaan menghadapi bencana sebagai budaya hidup masyarakat, bukan sekadar program pemerintah.",
+    "confidence": 0.95
+  },
+  "f39e6e729b542542128c": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": true,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Garis pantai di wilayah pesisir Dobo, Kabupaten Kepulauan Aru, Maluku kian tergerus. Air laut yang semula berhenti di bibir pantai, kini merangsek masuk ke ruang hidup warga.",
+    "confidence": 0.98
+  },
+  "df230a242a023ae041be": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Proyek ini diharapkan menjadi salah satu solusi jangka panjang untuk mengatasi persoalan penurunan muka tanah di Ibu Kota.",
+    "confidence": 0.95
+  },
+  "d4da28388724eb269f32": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": true,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Pemilihan Pantai Pasir Jambak sebagai tempat pelaksanaan karena merupakan salah satu destinasi wisata yang menarik, yang saat ini perlu mendapat perhatian khusus terkait abrasi atau pengikisan pantai yang disebabkan oleh gelombang laut, arus dan faktor lainnya.",
+    "confidence": 0.95
+  },
+  "9f06fff79c9d0cdd22a9": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Pantai Utara Jawa menjadi kawasan penting bagi perekonomian, namun terus menghadapi ancaman rob dan penurunan muka tanah. Desa Timbulsloko menjadi salah satu desa yang terdampak. Kepala Desa Timbulsloko, H.Nadhiri, mengatakan desanya dahulu subur dengan sawah dan tambak yang dapat dipanen bergiliran. Namun, desa itu mulai tenggelam total sejak 2016.",
+    "confidence": 0.95
+  },
+  "3d2f4696bfcd2610c7e6": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": true,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Tingginya intensitas curah hujan dalam beberapa hari terakhir memicu bencana tanah longsor di lima lokasi di Desa Kali Glagah, Kecamatan Sumberbaru, Kabupaten Jember, pada Rabu (11/11/26) sore.",
+    "confidence": 0.98
+  },
+  "ce67e60deb27622847bb": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Musim hujan 2026/2027 mulai memasuki sejumlah wilayah Indonesia pada November.",
+    "confidence": 0.98
+  },
+  "904648a4836e79e0479e": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": true,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "abrasi di Pantai Sederhana telah berlangsung sejak 2000 dan menyebabkan hilangnya lahan, tambak, serta rumah warga.",
+    "confidence": 0.98
+  },
+  "56b1672aacfbb36d23bf": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Beberapa di antaranya tercatat dalam sejarah dunia, mulai dari gempa bumi dahsyat di Yogyakarta yang menewaskan ribuan orang, hingga semburan Lumpur Lapindo yang menggenangi wilayah Sidoarjo, Jawa Timur.",
+    "confidence": 0.95
+  },
+  "b87a19c9e7047a34ec93": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Menurut Badan Meteorologi, Klimatologi, dan Geofisika [BMKG], pembahasan potensi gempa di zona megathrust saat ini, bukanlah bentuk peringatan dini [warning], yang seolah-olah dalam waktu dekat akan segera terjadi gempa besar.",
+    "confidence": 0.95
+  },
+  "28c4c9c16b6c88098af9": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Pemerintah meningkatkan kesiapsiagaan menghadapi potensi bencana hidrometeorologi, terutama banjir dan tanah longsor akibat curah hujan ekstrem.",
+    "confidence": 0.95
+  },
+  "75f56fa20d2d13a8f87f": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Heboh isu likuefaksi di Matraman, Jaktim. BPBD DKI Jakarta buka suara.",
+    "confidence": 0.95
+  },
+  "8fffbd9d0e1fb1e5b1aa": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": true,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) Badan Geologi Kementerian Energi dan Sumber Daya Mineral (ESDM) meningkatkan status Gunung Ijen menjadi Level II (Waspada).",
+    "confidence": 0.98
+  },
+  "2d9f35956c13a4a1774a": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": true,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Kabupaten Demak menghadapi ancaman abrasi dan banjir rob akibat kenaikan permukaan air laut, cuaca ekstrem, serta kondisi dataran pesisir yang rendah. Risiko tersebut diperparah oleh alih fungsi lahan mangrove, eksploitasi air tanah yang memicu penurunan muka tanah, dan penumpukan sampah plastik yang menyumbat saluran irigasi.",
+    "confidence": 0.95
+  },
+  "d791edf54c6910a0f5b3": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": true,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Gubernur Aceh Muzakir Manaf (Mualem) meninjau langsung kondisi permukiman warga yang tergerus abrasi laut di Gampong Lhok Puuk, Kecamatan Seunuddon, Kabupaten Aceh Utara, Minggu (16/11/2025).",
+    "confidence": 0.98
+  },
+  "fb7e07913684f5b36290": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": true,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "membantu masyarakat terdampak bencana banjir dan tanah longsor di Aceh",
+    "confidence": 0.95
+  },
+  "75e4b6e4e68a7dfcbedc": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Dua petugas Telkom tewas diduga akibat menghirup gas beracun di dalam gorong-gorong Jalan Sangkuriang",
+    "confidence": 0.98
+  },
+  "537509b87fee633d516c": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Seketika tempat Meril Budi berdiri berguncang, 26 Agustus lalu. Dia yang sedang telponan pun panik. Sontak, Meril sadar setelah bola lampu yang tergantung di ruang tamu ikut bergoyang. \"Ada gempa. Ada gempa ini, saya keluar rumah dulu,\" katanya. Tak berselang lama, notifikasi masuk ke telepon selulernya dan mengonfirmasi ada gempa bumi. Dalam notifikasi itu disebutkan pusat gempa di Yogyakarta, diperkirakan tak memicu tsunami.",
+    "confidence": 0.95
+  },
+  "196f85332fde3e828313": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": true,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Pantai Bahagia di Kabupaten Bekasi menjadi saksi nyata bagaimana abrasi perlahan menggerus daratan dan mengancam kehidupan warga setempat.",
+    "confidence": 0.95
+  },
+  "9607e4f1446273a33526": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": true,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Program ini menjadi bagian dari upaya memulihkan kegiatan usaha sekaligus memperkuat daya saing industri kecil yang terdampak banjir dan longsor.",
+    "confidence": 0.95
+  },
+  "1d5b4ed0d0301c41681c": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": true,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Desa Tlangoh sebelumnya menghadapi ancaman abrasi serius mencapai tujuh meter per tahun akibat arus ombak dan penambangan pasir ilegal.",
+    "confidence": 0.95
+  },
+  "922bd4258f5b235f8f85": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "BMKG memperkirakan hujan sedang hingga lebat di sejumlah wilayah Indonesia hari ini, dipengaruhi oleh aktivitas atmosfer dan bibit siklon tropis.",
+    "confidence": 0.98
+  },
+  "c8bf14ea9c8e61a8de75": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": true,
+      "tanah_longsor": false,
+      "likuefaksi": true,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "BMKG menemukan indikasi likuefaksi berupa sand boil di Kabupaten Nagekeo usai gempa M7,7 NTT.",
+    "confidence": 0.95
+  },
+  "cdf14f802d7cbe930ac9": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Kita ketahui bahwa Demak adalah area yang mengalami penurunan muka tanah yang cukup meluas",
+    "confidence": 0.95
+  },
+  "f7130ab2a4586a076111": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "",
+    "confidence": 0.95
+  },
+  "c86b50b92c769301bfc0": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "BMKG memprediksi 30 daerah di Indonesia akan diguyur hujan bervariasi pada 13 November. Hujan lebat diperkirakan di Sumatera Utara dan Jawa Barat.",
+    "confidence": 0.98
+  },
+  "4d908c7a496e241f5a9b": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": true,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Luas tanah juga mengalami pengikisan-atau bahkan tenggelam oleh laut-akibat abrasi, kenaikan muka laut, dan faktor perubahan iklim.",
+    "confidence": 0.95
+  },
+  "fee39eef95d29b3c4f70": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": true,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Berdasarkan data Pemprov Bali, laju kemunduran garis pantai di kawasan tersebut diperkirakan mencapai 1,9 meter per tahun hingga mempersempit area berpasir bagi wisatawan. Terjangan ombak yang masif juga mengakibatkan kerusakan fisik pada sejumlah fasilitas publik, mulai dari jalur pejalan kaki, tembok pembatas, hingga area aktivitas pedagang.",
+    "confidence": 0.98
+  },
+  "247ef4ee4a3ca5f6c0fd": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "BMKG peringatkan potensi hujan lebat di 10 provinsi Indonesia pada 16 November 2026. Waspadai risiko banjir dan longsor akibat curah hujan tinggi.",
+    "confidence": 0.95
+  },
+  "3065640133a49807f20b": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": true
+    },
+    "evidence_text": "Temuan ini mereka peroleh ketika melakukan pengambilan sampel pada empat titik semburan lumpur panas di Desa Roburan Dolok, Mandailing Natal pada Sabtu hingga Senin lalu (10-12/5/2025).",
+    "confidence": 0.95
+  },
+  "aad5aa1aef5627b4f139": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Diduga kedua petugas tersebut menghirup gas beracun dan tak sadarkan diri hingga meninggal dalam gorong-gorong.",
+    "confidence": 0.98
+  },
+  "5ecd1125467dab86a571": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": true,
+      "tanah_longsor": false,
+      "likuefaksi": true,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Ketika bencana gempa bumi, tsunami dan likuifaksi September 2018, Desa Beka aman terlindung.",
+    "confidence": 0.95
+  },
+  "fbf4b1c01ad73adc75ac": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": true,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "pemulihan wilayah terdampak banjir bandang dan tanah longsor di Aceh, Sumatera Utara, dan Sumatera Barat menunjukkan kemajuan signifikan",
+    "confidence": 0.95
+  },
+  "04ad99b6b7f0fe038a4c": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Gempa megathrust bisa terjadi besok, lusa atau 200 tahun lagi. Kita tidak usah berdebat isunya, harus bergeser mencari solusi.",
+    "confidence": 0.95
+  },
+  "f101821f2f2b48672df8": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Medio Juni lalu, gempa bumi tektonik berkekuatan magnitudo 6,7 mengguncang Palu dan Sigi, Sulawesi Tengah.",
+    "confidence": 0.98
+  },
+  "faa2e4c76b801b9adb32": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "data dari ANTARA menunjukkan bahwa laju penurunan tanah di wilayah ini bervariasi. Misalnya: Semarang: Penurunan antara 12 cm per tahun, dengan rata-rata 5,6 cm per tahun.",
+    "confidence": 0.95
+  },
+  "bca3a1d41e8080218d23": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": true,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Longsor terjadi di kawasan Galian C Kelurahan Argasunya, Kecamatan Harjamukti, Kota Cirebon, berujung petaka. Satu orang dilaporkan meninggal dunia, sementara dua lainnya selamat meski mengalami luka-luka.",
+    "confidence": 0.98
+  },
+  "81edd2e96b01f2c4fd51": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "BMKG memprediksi 36 daerah di Indonesia akan hujan hari ini, dengan intensitas bervariasi. Pengaruh Monsun Asia dan gelombang atmosfer memperkuat musim hujan.",
+    "confidence": 0.98
+  },
+  "e16a68e6d918a4056931": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": true
+    },
+    "evidence_text": "Kawah lumpur Oro-Oro Kesongo di Desa Gabusan, Kecamatan Jati, Kabupaten Blora, memuntahkan lumpur bercampur gas pada Selasa (3/12) pagi.",
+    "confidence": 0.98
+  },
+  "2afbe25f6d0ca345e1ab": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": true,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Kota Semarang, Pekalongan dan Demak menjadi salah satu contoh daerah di Pulau Jawa yang paling kentara mengalami penurunan permukaan tanah itu... Selain banjir, kata dia, tanah longsor akibat cuaca buruk juga terjadi di sejumlah wilayah di Kota Semarang. \"Sementara ada laporan 10 kejadian tanah longsor,\" ujar Endro.",
+    "confidence": 0.95
+  },
+  "06172a6fea4fa86f1181": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": true
+    },
+    "evidence_text": "bencana lumpur Lapindo yang saat ini masih aktif mengeluarkan lumpur panas dari dalam bumi",
+    "confidence": 0.95
+  },
+  "bab0540c9a8de975f38b": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": true
+    },
+    "evidence_text": "Bencana semburan lumpur panas yang terjadi pada 29 Mei 2006 telah menenggelamkan desa-desa, merusak ribuan rumah, fasilitas pendidikan, tempat ibadah, dan infrastruktur lainnya serta hingga saat ini masih aktif mengeluarkan lumpur panas dari dalam bumi.",
+    "confidence": 0.98
+  },
+  "8f5f000c1be2ac4eb07f": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Sedikitnya 250 pohon mangrove ditanam di kawasan Muara Gembong, Kabupaten Bekasi. Langkah ini sebagai komitmen Aksesmu dalam menjaga lingkungan.",
+    "confidence": 0.95
+  },
+  "ebef06fd9b41d57f84de": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": true,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Sebagai upaya nyata menjaga kelestarian lingkungan dan memperkuat struktur tanah dari ancaman abrasi, Husky - CNOOC Madura Limited (HCML) bersama SKK Migas Perwakilan Jawa, Bali, dan Nusa Tenggara (Jabanusa) menggelar aksi penanaman ribuan pohon di Pulau Mandangin, Kabupaten Sampang, Sabtu (20/12/2025).",
+    "confidence": 0.95
+  },
+  "cb64afb96172050311ae": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "BMKG mengungkap 34 wilayah Indonesia berpotensi hujan sedang hingga sangat lebat hari ini. Pengaruh Monsun Asia dan gelombang atmosfer mempengaruhi cuaca.",
+    "confidence": 0.98
+  },
+  "c327f87bee49d38b6025": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": true,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "BMKG menemukan indikasi likuefaksi berupa sand boil di Kabupaten Nagekeo usai gempa M7,7 NTT.",
+    "confidence": 0.95
+  },
+  "1d953b6516e33ab9a474": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Gempa bumi berkekuatan magnitudo 6,7 yang mengguncang Palu, Sulawesi Tengah, pada Selasa, 16 Juni 2026",
+    "confidence": 0.95
+  },
+  "2459cf600fead16fb378": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) mengeluarkan peringatan dini gelombang tinggi yang berpotensi terjadi di sejumlah perairan Indonesia pada 14-17 November 2026.",
+    "confidence": 0.98
+  },
+  "f6df5936f07d9eb96f96": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Pengambilan air tanah secara terus menerus berpotensi memperparah penurunan muka tanah.",
+    "confidence": 0.95
+  },
+  "6d700c484570427377b1": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": true,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Abrasi yang melanda bibir pantai Desa Matang Danau, Kecamatan Paloh, Kabupaten Sambas, Kalimantan Barat, cukup mengkhawatirkan.",
+    "confidence": 0.98
+  },
+  "ee7f10a7dca2bc7e7385": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": true,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Update Gempa M6,7 di Palu, BMKG Sebut Potensi Likuefaksi tapi Tidak Sedahsyat 2018",
+    "confidence": 0.95
+  },
+  "e1c57add501efe8cfbe7": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Upaya menekan laju penurunan muka tanah (land subsidence) di Jakarta, mulai menunjukkan hasil positif.",
+    "confidence": 0.95
+  },
+  "efd32feecfea25d77e51": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": true
+    },
+    "evidence_text": "Tanggul penahan lumpur Lapindo di titik 10 D, di Kelurahan Siring, Kecamatan Porong, Kabupaten Sidoarjo, dilaporkan bocor pada Jumat (10/7) sekitar pukul 04.00 WIB.",
+    "confidence": 0.95
+  },
+  "7d3c560aa1fc0e481688": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Struktur bangunan di area perkotaan juga mengalami kerusakan berat akibat pergeseran tanah.",
+    "confidence": 0.95
+  },
+  "5c6fc2a7d093bfd3672e": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": true,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Badan Geologi Kementerian ESDM mengidentifikasi Gempa magnitudo 7,7 dan kedalaman 15 kilometer di NTT, memunculkan bahaya ikutan yang perlu diwaspadai. Yakni mulai dari gerakan tanah, hingga likuefaksi .",
+    "confidence": 0.95
+  },
+  "ce35f7a781da46d4bb56": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Menurutnya, keberadaan mangrove sangat penting untuk mencegah abrasi dan menjaga keseimbangan ekosistem di wilayah pesisir.",
+    "confidence": 0.95
+  },
+  "bd348ab7b9e58b913be5": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": true,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Bencana tanah bergerak melanda kawasan tepi Sungai Juwana, tepatnya di Desa Tondomulyo, Kecamatan Jakenan, Kabupaten Pati, Jawa Tengah. Tanah di wilayah tersebut amblas hingga 50 sentimeter sepanjang sekitar 100 meter setelah debit air sungai mengering.",
+    "confidence": 0.95
+  },
+  "33d3a340cb23a85a67e0": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "",
+    "confidence": 0.95
+  },
+  "ca7ff0285cd62a0a5456": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": true
+    },
+    "evidence_text": "trauma akibat insiden kebocoran gas H2S pada 24 September 2023 yang membuat 34 orang dirawat di RSUD Zubir Mahmud",
+    "confidence": 0.95
+  },
+  "8d382866dfb140feb44d": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "BMKG deteksi dua bibit siklon tropis di barat Sumatera, berpotensi cuaca ekstrem. BNPB imbau masyarakat waspada terhadap hujan lebat dan gelombang tinggi.",
+    "confidence": 0.98
+  },
+  "952ae80fbd620ddf5fc2": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": true
+    },
+    "evidence_text": "sudah 2 tahun bermunculan titik lumpur dan air panas baru di Desa Roburan Dolok, Kecamatan Panyabungan Selatan. Video semburan lumpur tersebut akhir-akhir ini viral di media lokal",
+    "confidence": 0.95
+  },
+  "fed9a83d72c1b4fd3a4d": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": true,
+      "tanah_longsor": false,
+      "likuefaksi": true,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Gempa bumi, tsunami dan likuifaksi di Kota Palu meluluhlantakkan seluruh bangunan pada September 2018 lalu.",
+    "confidence": 0.95
+  },
+  "92810f990164405b38e8": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Keempatnya diketahui meninggal usai membersihkan sebuah sumur di Perumahan Valencia Mendalo Darat, Kabupaten Muarojambi, Jambi.",
+    "confidence": 0.98
+  },
+  "9fdb6bf011f0f555c932": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": true,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Isu lain menyangkut abrasi dan land subsidence pantai utara, pengembangan infrastruktur, dan penyelesaian status tanah. Pengembangan ekonomi ini sekaligus menjadi solusi menyelesaikan sejumlah isu strategis tersebut",
+    "confidence": 0.95
+  },
+  "5767f8207e9b70afccba": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Empat pekerja yang sedang mengerjakan proyek di Jalan TB Simatupang, Jagakarsa, Jakarta Selatan, tewas pada Jumat (3/4/2026).",
+    "confidence": 0.98
+  },
+  "200bc91ac6e139ebb84d": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Pemanfaatan air tanah secara berlebihan berkontribusi terhadap penurunan muka tanah yang berdampak pada meningkatnya risiko banjir musiman, banjir rob, serta kerusakan infrastruktur yang merugikan masyarakat luas",
+    "confidence": 0.95
+  },
+  "dea7f1a6fc6eda6793cf": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": true,
+      "abrasi_pantai": false,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Gempa Bawean menyebabkan likuifaksi di Desa Lebak dan Desa Telukjatidawang, Kecamatan Tambak, Kabupaten Gresik. Terjadi Penurunan tanah antara lima centimeter sampai 12 centimeter.",
+    "confidence": 0.98
+  },
+  "ff68973b95bed87006f6": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": true
+    },
+    "evidence_text": "Hingga saat ini semburan lumpur Lapindo masih aktif mengeluarkan lumpur panas dari dalam bumi.",
+    "confidence": 0.98
+  },
+  "0960a408f92b5d721bf3": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Proteksi Pantura Jawa ini bukan hanya perlu, tetapi benar-benar sangat esensial dalam rangka menyelamatkan masyarakat yang tinggal di pesisir Pantura Jawa yang setiap saat terancam bencana akibat penurunan permukaan tanah dan banjir rob",
+    "confidence": 0.95
+  },
+  "a982ba9210aacca362ea": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": true,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "PT Pupuk Iskandar Muda (PT PIM) bersama Dinas Lingkungan Hidup dan Kehutanan (DLHK) Aceh Utara, berkomitmen untuk merehabilitasi kawasan pesisir yang terdampak abrasi parah pada tahun 2022, sehingga mengakibatkan kerusakan puluhan rumah warga di Gampong (Desa) Pu'uk.",
+    "confidence": 0.95
+  },
+  "98818784520249c64bf4": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Gempa Besar M6,7 Guncang Palu Sulteng, BMKG Waspadai Potensi Likuifaksi",
+    "confidence": 0.95
+  },
+  "da2452f0b88f4effff6a": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "BMKG menjelaskan penyebab udara gerah di Bali, dipengaruhi posisi semu Matahari dan kelembapan tinggi. Cuaca panas diperkirakan berlanjut hingga akhir November.",
+    "confidence": 0.98
+  },
+  "06ca5d56e35ad8fcee23": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": true,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Pantai Wisata Skouw yang terletak di perbatasan Indonesia dan Papua Nugini kini menghadapi ancaman serius akibat abrasi yang kian menggerus kawasan pesisir.",
+    "confidence": 0.98
+  },
+  "9b2c035908fd980c10af": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": true,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Proyek ini bertujuan utama untuk menahan intrusi air laut, mencegah abrasi, serta mengatasi penurunan muka tanah yang kian mengkhawatirkan.",
+    "confidence": 0.95
+  },
+  "981ce115f81012fba57a": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": true,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Ancaman abrasi dan banjir rob masih menjadi persoalan serius bagi masyarakat pesisir Muara Gembong, Kabupaten Bekasi. Perubahan garis pantai yang terus terjadi tidak hanya menggerus daratan, tetapi juga meningkatkan risiko kerusakan permukiman",
+    "confidence": 0.95
+  },
+  "f197cf3d3af881e4b05a": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Peningkatan curah hujan berpotensi memicu bencana hidrometeorologi, seperti banjir dan tanah longsor.",
+    "confidence": 0.95
+  },
+  "89de22cb6bd25cfea366": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Badan Geologi mencatat sejumlah kota besar di Pulau Jawa mengalami penurunan muka tanah dengan laju lebih dari lima sentimeter per tahun, bahkan juga terjadi tidak hanya di pesisir tapi juga di dataran tinggi seperti Bandung.",
+    "confidence": 0.98
+  },
+  "c2ef9d649a3a31672b84": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "",
+    "confidence": 0.95
+  },
+  "d5c4b13c607294f9b887": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Teleskop Luar Angkasa James Webb (JWST) menangkap semburan gas yang memancar dari sebuah objek mirip komet yang jauh bernama Centaur",
+    "confidence": 0.98
+  },
+  "10fb4cc171d983194b1b": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": true,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Badan Geologi Kementerian Energi dan Sumber Daya Mineral (ESDM) mengingatkan potensi paparan gas vulkanik beracun di sekitar Kawah Manuk , Kompleks Gunung Papandayan, Kabupaten Garut, Jawa Barat. Ancaman tersebut muncul di tengah fenomena blue fire atau sinar api biru yang sempat terlihat di kawasan tersebut.",
+    "confidence": 0.98
+  },
+  "a3e061a7c8c0f9a055f2": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": true,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Gunung Suoh ( Pematang Bata ) dilaporkan mengalami erupsi freatik pada Jumat, 24 Mei 2024.",
+    "confidence": 0.98
+  },
+  "b90fddb0d734a88d6e78": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Gempabumi berkekuatan M 4.0 berpusat di Pusat gempa berada di darat 15 km selatan Kota Sukabumi pada 10 Nov 2026 pukul 21:31:38 WIB.",
+    "confidence": 1.0
+  },
+  "597d633b2480e7846183": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Menteri Pekerjaan Umum (PU) Dody Hanggodo bertemu dengan Menteri Koordinator Bidang Infrastruktur dan Pembangunan Wilayah Agus Harimurti Yudhoyono (AHY) untuk membahas respons penurunan muka tanah (land subsidence) Jakarta dan mengantisipasi bahaya banjir",
+    "confidence": 0.95
+  },
+  "264c282b8d75ba79ae3a": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "penyebab utama meningkatnya risiko banjir di Jabodetabek adalah penurunan muka tanah, yang berkontribusi hingga 145 persen terhadap peningkatan risiko banjir",
+    "confidence": 0.95
+  },
+  "461cd4faac423441265e": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Wilayah Penjaringan, Jakarta Utara, mengalami laju penurunan muka tanah yang perlu diwaspadai.",
+    "confidence": 0.95
+  },
+  "e5c89d79efca48bfe26d": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": true,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Tangkal Abrasi, PHE OSES Tanam 20.000 Mangrove di Lampung Timur",
+    "confidence": 0.95
+  },
+  "a3fc4e98ed6cf01c02e3": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Kalau kita lihat, khusus di Jakarta Utara, penurunan muka tanah bisa mencapai antara 70 sentimeter hingga satu meter",
+    "confidence": 0.95
+  },
+  "6ef5c9b44e7d672b9d2c": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": true,
+      "tanah_longsor": false,
+      "likuefaksi": true,
+      "abrasi_pantai": false,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Peristiwa ini tidak hanya menghasilkan tsunami yang melintasi Samudra Pasifik, tetapi juga menyebabkan perubahan elevasi daratan yang signifikan di wilayah pesisir Chile. ... Beberapa daerah mengalami penurunan hingga beberapa meter, sementara yang lain terangkat. Likuifaksi tanah juga terjadi di beberapa lokasi, memperparah kerusakan infrastruktur.",
+    "confidence": 0.95
+  },
+  "a57df0615d2197b85dd3": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Diduga mereka tewas usai menghirup gas yang mengandung racun di dalam sumur.",
+    "confidence": 0.98
+  },
+  "1352fb3c72506454732d": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Terungkap! Lumpur Lapindo Mengandung Harta Karun Super Langka untuk Mobil Listrik dan Alutsista",
+    "confidence": 0.95
+  },
+  "57ef92655339bbd860f6": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": true,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Bencana likuefaksi (fenomena tanah bergerak alias pencairan tanah) terjadi di Dusun Tangkampulit, Desa Tangkam Pulit, Kecamatan Batulanteh, Kabupaten Sumbawa, NTB, pada Selasa (11/2/2025) pukul 10.20 WITA.",
+    "confidence": 0.98
+  },
+  "2484c908f4a4c2bab849": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": true,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "KPAI menekankan pentingnya relokasi dan pemenuhan hak anak-anak terdampak bencana alam likuifaksi di Desa Bojong Koneng dan Desa Karang Tengah Kecamatan Babakan Madang Kabupaten Bogor Jawa Barat.",
+    "confidence": 0.98
+  },
+  "d080b3310f29a998886d": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Gempa bumi magnitudo 7,1 mengguncang Maluku Tenggara.",
+    "confidence": 0.98
+  },
+  "f545bed0bec481eecc88": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": true,
+      "tanah_longsor": true,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Pada malam hari 9 Juli 1958, wilayah fjord yang tenang itu menjadi saksi bisu peristiwa yang menciptakan istilah Megatsunami. Bukan sekadar gelombang biasa, bencana ini menghasilkan dinding air vertikal yang memecahkan rekor dunia, menyapu lereng bukit hingga ketinggian sekitar 524 meter.",
+    "confidence": 0.95
+  },
+  "b31656d0d4189a1b6741": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": true,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Arsip Balai Besar Meteorologi, Klimatologi, dan Geofisika (BBMKG) Wilayah III Denpasar mencatat, kawasan ini pernah luluh lantak akibat gempa bumi berkekuatan 6,5 skala Richter pada 14 Juli 1976. Tragedi yang dipicu aktivitas sesar naik belakang busur ( back arc thrust ) Flores tersebut merenggut 559 korban jiwa, melukai ribuan warga, serta meruntuhkan permukiman dan fasilitas publik di Seririt dan sekitarnya.",
+    "confidence": 0.95
+  },
+  "36b735b47f5759dee1f2": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Gempa bumi tektonik bermagnitudo 7,1 mengguncang wilayah Provinsi Maluku pada Selasa pagi, 17 November 2026.",
+    "confidence": 0.98
+  },
+  "a98d5ac0f7583d73ce08": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Gempa susulan dari gempa Flores, Nusa Tenggara Timur (NTT), dengan magnitudo 7,7 telah mencapai 13.863 kali hingga Rabu (9/9/2026) pagi.",
+    "confidence": 0.98
+  },
+  "2573d74c2c835ce4879e": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Update Gempa M5,4 Guncang Tanimbar Maluku, Tidak Berpotensi Tsunami",
+    "confidence": 0.95
+  },
+  "5cf73507a4e7fb8e7da0": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": true,
+      "likuefaksi": true,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "PVMBG menduga gerakan tanah yang terjadi di Kabupaten Bekasi, Jawa Barat, berbentuk retakan-retakan menyerupai likuifaksi terjadi akibat tarikan sungai.",
+    "confidence": 0.95
+  },
+  "0b8ff394943c4700c0cc": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": true,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "BMKG memastikan terus memantau potensi fenomena geologi likuefaksi usai gempa besar M6,7 di Palu, Sulawesi Tengah, pada Selasa, 16 Juni 2026.",
+    "confidence": 0.95
+  },
+  "6a72a474ad7b077eaad5": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": true,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Tsunami yang menerjang Pangandaran pada Senin 17 Juli 2006, menjadi pengingat bahwa ancaman megathrust adalah nyata. Tsunami Pangandaran 20 tahun lalu ini dipicu gempa megathrust bertipe tsunami earthquake di zona subduksi selatan Jawa Tengah dan Jawa Barat. Gempa berkekuatan magnitudo (M) 7,7 ini memicu tsunami dahsyat yang menewaskan lebih dari 668 orang dan menyebabkan ribuan lainnya terluka serta kehilangan tempat tinggal.",
+    "confidence": 0.98
+  },
+  "20490f2952506cc0506b": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": true,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Salah satu peristiwa likuifaksi yang paling menghancurkan di Indonesia terjadi di Palu pada 2018. Bencana alam tersebut menimbulkan kehancuran besar dan mengubur banyak pemukiman hingga korban jiwa.",
+    "confidence": 0.95
+  },
+  "69fe646bd846c04534c7": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Wilayah Sukabumi, Jawa Barat, dan Malang, Jawa Timur, diguncang gempa bumi pada Minggu (4/10/2026) malam. Berdasarkan data Badan Meteorologi, Klimatologi, dan Geofisika (BMKG), gempa terjadi dengan kekuatan magnitudo 4,0 di Sukabumi dan magnitudo 4,6 di Malang.",
+    "confidence": 0.98
+  },
+  "ff76f15e55f0bd7b1a41": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "BMKG mendeteksi Bibit Siklon Tropis 96S di Samudra Hindia. Potensi perkembangan siklon rendah, namun dapat memicu hujan lebat di beberapa wilayah Indonesia.",
+    "confidence": 0.98
+  },
+  "8276cbccfe661e1dffa9": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": true,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Badan Meteorologi Klimatologi dan Geofisika (BMKG) mencatat tsunami terjadi di 9 wilayah Indonesia dengan Ketinggian tsunami mulai dari 0,09 sampai 0,75 meter.",
+    "confidence": 0.98
+  },
+  "f690e8e543afbba5483f": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "korban jiwa akibat gempa dengan magnitudo 7,7 mencapai 156 orang",
+    "confidence": 0.98
+  },
+  "a82c55ad65f2103c3424": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Gempa bumi berkekuatan magnitudo 6,2 mengguncang Kabupaten Parigi Moutong (Parimo), Sulawesi Tengah, pada Sabtu (15/8/2026) malam.",
+    "confidence": 0.98
+  },
+  "696f354aeaf6b6c8afe9": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Gempa berkekuatan 5,9 magnitudo dengan kedalaman 74 kilometer pada Rabu (3/1), pukul 07.53 WIB, terasa hingga ke Sukabumi dan Pandeglang.",
+    "confidence": 0.98
+  },
+  "fefdadfe42524d1d9f8e": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": true,
+      "likuefaksi": false,
+      "abrasi_pantai": true,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "selain banjir, Indonesia juga mengalami 363 kejadian cuaca ekstrem, 114 tanah longsor, serta 14 peristiwa gelombang pasang atau abrasi.",
+    "confidence": 0.95
+  },
+  "4db509a65671a47b74fa": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": true,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Aplikasi Joko Tingkir memanfaatkan data real-time dari Federated Data Service Network Web Services (FDSNWS) yang mencakup informasi lengkap seputar gempa bumi-mulai dari lokasi, kedalaman, hingga potensi tsunami.",
+    "confidence": 0.95
+  },
+  "ff32f433bd78e30b7617": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan mayoritas wilayah di Indonesia akan diselimuti awan dan diguyur hujan ringan hingga sedang pada hari ini, Selasa.",
+    "confidence": 0.98
+  },
+  "9a65d74aa51e4333aedf": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": true,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Hasil pemantauan menunjukkan bahwa peningkatan aktivitas vulkanik pada periode awal September 2026 belum disertai anomali muka air yang mengindikasikan potensi gelombang tsunami.",
+    "confidence": 0.95
+  },
+  "aad6bd18a7b6893eb303": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "dampak penggunaan air tanah secara berlebihan sudah terlihat nyata. Terutama di kawasan pesisir utara Jakarta. \"Kalau kita melihat daratan di pesisir utara Jakarta dengan wilayah daratan maka sesungguhnya alarm bahaya itu sudah berbunyi. Sebab, tinggi muka air laut sudah lebih tinggi dari daratan,\"",
+    "confidence": 0.95
+  },
+  "71140bf8056f9800d32d": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": true,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Dua pengunjung diduga tertimbun setelah tebing longsor menimbun satu bangunan penginapan di kawasan Eco Park Pelaga Glamping Retreat, Desa Pelaga, Kecamatan Petang, Kabupaten Badung.",
+    "confidence": 0.98
+  },
+  "4e0f5d353667b654694c": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": true,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "bencana longsor terjadi di Kampung Condong, Desa Wargaluyu, Kecamatan Arjasari, pada Jumat (5/12). Akibatnya, sedikitnya empat unit rumah terdampak dan lebih dari 100 warga setempat terancam.",
+    "confidence": 0.98
+  },
+  "36c077a05356f5ef4563": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "gempa bumi tektonik berkekuatan magnitudo 6,2 di wilayah Mindanao, Filipina tak berdampak tsunami di Indonesia",
+    "confidence": 0.98
+  },
+  "7f832d539afe108f35c5": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": true,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Ruas jalan nasional Tapan-Batas Jambi, Kabupaten Pesisir Selatan, Sumatera Barat terdampak longsor.",
+    "confidence": 0.98
+  },
+  "725db8d69ee7c6414da8": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Hujan deras yang disertai angin kencang terjadi di sejumlah daerah. Kuatnya terjangan angin membuat atap-atap beterbangan dan pohon bertumbangan, sehingga membuat warga panik.",
+    "confidence": 0.95
+  },
+  "53b83f370f71ea006fb8": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "",
+    "confidence": 0.95
+  },
+  "78eac2e52ed0cd85e600": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": true,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "peringatan dini tsunami akibat gempa magnitudo 7,7 yang mengguncang Nusa Tenggara Timur (NTT) pada Sabtu, 15 Agustus 2026 telah berakhir",
+    "confidence": 0.98
+  },
+  "d38f876400d9b11a9524": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Badan Geologi Kementerian ESDM mengungkapkan gempa berkekuatan magnitudo 4,7 M di sekitaran Bekasi, Karawang, Purwakarta Jawa Barat hingga terasa di Jakarta Rabu malam, diakibatkan oleh aktivitas Sesar Baribis.",
+    "confidence": 0.98
+  },
+  "9e126a20c868d40d977d": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": true
+    },
+    "evidence_text": "Sumur bor sedalam 100 meter mengeluarkan gas bercampur minyak di Kabupaten Bangkalan.",
+    "confidence": 0.95
+  },
+  "49c6e292afa041b361ee": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "menilai banjir rob hingga penurunan muka tanah (land subsidence) di kawasan pesisir utara Jawa dan Jakarta sudah menjadi ancaman serius",
+    "confidence": 0.95
+  },
+  "bd3e541f59ad4eea6821": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": true,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Ia mencontohkan, kejadian gempa Pangandaran menunjukkan masyarakat hanya memiliki waktu beberapa menit untuk menyelamatkan diri sebelum tsunami datang.",
+    "confidence": 0.95
+  },
+  "08f4465484f6236b3c37": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": true,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Aktivitas erupsi Gunung Anak Krakatau dalam beberapa hari terakhir membuat sejumlah daerah meningkatkan kewaspadaan terhadap potensi sebaran abu vulkanik.",
+    "confidence": 0.95
+  },
+  "4a073f918dedeccea8e2": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Warga mengeluhkan kondisi jalan amblas di kawasan Jalan Dewi Sartika, Jakarta Timur.",
+    "confidence": 0.95
+  },
+  "c6c02cd0be6a2ba7dca9": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Gempa bumi magnitudo 6,2 mengguncang Kabupaten Parigi Moutong, Sulawesi Tengah, pada pukul 23.25 WITA.",
+    "confidence": 0.98
+  },
+  "5925a878e511b4179f41": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Angin 25 Knot Ancam Perairan Labuan Bajo, KSOP Petakan 7 Titik Rawan",
+    "confidence": 0.98
+  },
+  "6952d0a6e6c38c47b40f": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": true,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Badan Geologi mengungkapkan tragedi gerakan tanah yang menimbun sekitar 30 hektare lahan di Desa Pasirlangu, Kecamatan Cisarua, Kabupaten Bandung Barat, bukan semata bencana hidrometeorologi, melainkan dipicu kombinasi faktor geologi purba dan kejenuhan air tanah.",
+    "confidence": 0.98
+  },
+  "6d301df09ad9ada5d3ee": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": true,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Gunung Semeru di Lumajang, Jawa Timur kembali mengalami erupsi disertai awan panas guguran (APG) hingga mencapai 4,5 kilometer pada Kamis (5/11/2026).",
+    "confidence": 0.98
+  },
+  "cbfb4a6e37cab5cdf253": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Namun, Badan Geologi Kementerian Energi dan Sumber Daya Mineral (ESDM) memastikan informasi tersebut merupakan hoaks.",
+    "confidence": 0.95
+  },
+  "bceac70f1c1061943877": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": true,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Banyak yang mengkaitkan dengan erupsi Gunung Krakatau yang terjadi belum lama ini.",
+    "confidence": 0.95
+  },
+  "27c39e4cab2d73e9d9bd": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Semburan Lumpur Baby Volcano di Grobogan usai Gempa Tuban",
+    "confidence": 0.95
+  },
+  "36a98e2b2e3910ff9c71": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "terjadinya bencana alam gempa dan gas beracun di Dataran Tinggi Dieng, yang menewaskan 149 orang pada 1979",
+    "confidence": 0.95
+  },
+  "cadf260bd32b9ce94067": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Gempa pertama terjadi di wilayah Sumba Barat Daya, Nusa Tenggara Timur (NTT) dengan magnitudo M5,9 pada pukul 05.55.52 WIB. Tidak berselang lama, gempa kedua mengguncang wilayah Aceh Jaya, Aceh dengan magnitudo M5,7 pada pukul 06.37.33 WIB",
+    "confidence": 0.98
+  },
+  "0bce4f95f849e958907a": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": true,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Badan Penanggulangan Bencana Daerah (BPBD) DKI Jakarta tengah memetakan sejumlah wilayah yang rawan longsor di kawasan Jakarta Selatan dan Jakarta Timur.",
+    "confidence": 0.95
+  },
+  "03c3ec388477f2d4399d": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Rencana mengintegrasikan Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) dengan Badan Geologi di bawah Kementerian ESDM mulai mendapat respons dari pemerintah, DPR, hingga pengamat kebijakan publik.",
+    "confidence": 0.95
+  },
+  "6d54ac0d696a8d2ec100": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": true,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Dia kemudian menyoroti bencana banjir dan tanah longsor yang dihadapi lima kabupaten di kaki Gunung Slamet.",
+    "confidence": 0.95
+  },
+  "8d9c73608cbcc7da16d2": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": true,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "sebaran debu vulkanik hanya terdeteksi di kawasan Gunung Dukono",
+    "confidence": 0.95
+  },
+  "18b6c8bee258e0f3bf50": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": true,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Terjadi erupsi Gunung Semeru pada pukul 15.48 WIB dengan tinggi kolom letusan teramati sekitar 1.000 meter di atas puncak atau 4.676 meter di atas permukaan laut (mdpl)",
+    "confidence": 0.98
+  },
+  "6ae1e9eb3a8a614efab6": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": true,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "getaran sebagai dampak banjir lahar hujan Gunung Semeru yang tercatat hampir empat jam pada Jumat (30/10) malam",
+    "confidence": 0.95
+  },
+  "4698c5fd18b59c9a2817": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Panduan Mitigasi Abrasi bagi Masyarakat, Jagalah Vegetasi",
+    "confidence": 0.95
+  },
+  "a4208605b975bb25b311": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": true,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Belakangan ini, masyarakat Jawa Tengah, khususnya di wilayah Kabupaten Tegal , dikejutkan oleh bencana tanah bergerak yang cukup masif. Di Desa Padasari, Kecamatan Jatinegara, fenomena ini bukan sekadar retakan kecil di dinding rumah, melainkan pergeseran lahan yang memaksa ribuan warga meninggalkan tempat tinggal mereka.",
+    "confidence": 0.95
+  },
+  "d68f94859e89ec6b62f1": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Gempa bumi tektonik berkekuatan magnitudo 5,2 mengguncang wilayah Laut Banda, Maluku, Selasa (10/11/2026) pukul 10.53.29 WIT.",
+    "confidence": 0.98
+  },
+  "0d96069cf2192603a064": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Wilayah Indonesia dilanda dua gempa yang cukup kuat dalam waktu berdekatan pada Minggu (4/10/2026) pagi. Gempa pertama terjadi di Sumba Barat Daya, Nusa Tenggara Timur (NTT), dengan kekuatan M5,9 pada pukul 05.55.52 WIB. Guncangan tersebut kemudian disusul gempa M5,7 yang terjadi di Aceh Jaya, Aceh, pada pukul 06.37.33 WIB.",
+    "confidence": 0.98
+  },
+  "b4768a4910b5e7649219": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": true,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Gunung Marapi di Sumatera Barat (Sumbar) kembali mengalami erupsi pada 7 November 2026 pukul 09.55 WIB dengan sebaran abu vulkanik terlihat menyebar di daerah Kecamatan Sungai Pua, Kabupaten Agam.",
+    "confidence": 0.98
+  },
+  "dd33a5518da59648c2e3": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": true,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Operasi Modifikasi Cuaca (OMC) telah dilakukan di wilayah Jawa Barat sejak Minggu (25/1) kemarin untuk memudahkan proses evakuasi di area tanah longsor di Desa Pasir Langu, Cisarua , Bandung Barat.",
+    "confidence": 0.98
+  },
+  "9c010ebb688efa6ac1f9": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Indonesia memiliki 127 gunung api aktif yang tersebar di berbagai wilayah.",
+    "confidence": 0.95
+  },
+  "5dcc4c5a466b0d46dfa7": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Pemerintah Kabupaten (Pemkab) Lombok Timur, Nusa Tenggara Barat (NTB) memperpanjang status siaga darurat kekeringan hingga Desember 2026.",
+    "confidence": 0.98
+  },
+  "ee739d6292479bdacf93": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": true,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "tanah Jakarta terus turun, sementara air laut terus naik. Akibat pengambilan air tanah berlebihan dan beban bangunan yang berat, pesisir utara Jakarta ambles beberapa sentimeter setiap tahunnya.",
+    "confidence": 0.95
+  },
+  "1e4d2cc3475715f96ca0": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": true,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Gunung Ili Lewotolok yang berada di Kabupaten Lembata, Nusa Tenggara Timur , kembali erupsi , Jumat (11/9/2026) pukul 09.06 WITA. Kolom abu vulkanik teramati menjulang setinggi ± 700 meter di atas puncak gunung atau ± 2.123 meter di atas permukaan laut.",
+    "confidence": 0.98
+  },
+  "dd72e6fbb930e89b32f9": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": true,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Lima jurnalis dan tiga awak kapal masih dalam pencarian setelah hilang saat melakukan peliputan di sekitar Gunung Anak Krakatau pada September 2026. Mereka sebelumnya berangkat dari kawasan Carita, Banten, menuju perairan di sekitar gunung berapi tersebut. Peristiwa ini kembali menyoroti risiko berada terlalu dekat dengan gunung berapi yang sedang mengalami erupsi .",
+    "confidence": 0.95
+  },
+  "ef59c54af1ebb7679639": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": true,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Gunung Anak Krakatau yang sempat erupsi nyebarin abu vulkanik sempat bikin resah warga sekitar.",
+    "confidence": 0.95
+  },
+  "1211fc9a871e6e57baf8": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Gempa bermagnitudo 5,3 mengguncang Labuan Bajo, Kabupaten Manggarai Barat, Nusa Tenggara Timur (NTT), Minggu (18/10/2026) sore.",
+    "confidence": 0.98
+  },
+  "922d4e2b60f6b96c23ea": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": true,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Kita mendapatkan laporan dan pengalaman lapangan bahwa di beberapa lokasi, sedikit saja hujan sudah dapat diikuti longsoran.",
+    "confidence": 0.95
+  },
+  "bf05e8578a0b1c6d2fac": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": true,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Pada Selasa (3/2/2026) pukul 04.42 WIB, gunung tertinggi di Pulau Jawa itu erupsi dengan tinggi kolom letusan teramati sekitar 700 meter di atas puncak atau mencapai 4.376 meter di atas permukaan laut.",
+    "confidence": 0.98
+  },
+  "1557efeda5023083985b": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": true,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Ayu Dewi akhirnya berhasil kembali ke Indonesia setelah perjalanan pulangnya dari Bangkok, Thailand, sempat terkendala akibat erupsi Gunung Anak Krakatau.",
+    "confidence": 0.95
+  },
+  "9bdc10294ebad98a1f62": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "gempa bumi berkekuatan magnitudo 7,7 mengguncang wilayah utara Pulau Flores, Nusa Tenggara Timur (NTT).",
+    "confidence": 0.98
+  },
+  "b0e2dc1046ec79b2ca0f": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": true,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Gempa bumi magnitudo 5,9 mengguncang wilayah Kota Bitung, Sulawesi Utara pada Jumat (9/10/2026) sekitar pukul 13.11 Wita.",
+    "confidence": 0.98
+  },
+  "0a58e661dc02226875e6": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": true,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Masyarakat yang berada di wilayah terdampak abu vulkanik akibat erupsi Gunung Anak Krakatau diminta meningkatkan perlindungan diri dan tidak mengabaikan potensi gangguan kesehatan.",
+    "confidence": 0.95
+  },
+  "6ccc05fc628e0203e865": {
+    "relevant": false,
+    "classes": {
+      "gunungapi": false,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "memetakan beragam jenis bencana alam yang berpotensi terjadi di wilayah setempat, khususnya memasuki musim penghujan 2025",
+    "confidence": 0.95
+  },
+  "975a2dad769036f791a5": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": true,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Banjir lahar Gunung Semeru kembali melanda beberapa daerah aliran sungai setelah hujan deras mengguyur kawasan Kabupaten Lumajang, Jawa Timur (Jatim) . Debit air yang besar menyebabkan akses jalan antarkecamatan terganggu, bahkan luapan air meluap hingga menutupi jembatan.",
+    "confidence": 0.98
+  },
+  "77b683a9e2b98fd53f9e": {
+    "relevant": true,
+    "classes": {
+      "gunungapi": true,
+      "gempabumi": false,
+      "tsunami": false,
+      "tanah_longsor": false,
+      "likuefaksi": false,
+      "abrasi_pantai": false,
+      "penurunan_tanah": false,
+      "semburan_gas_lumpur": false
+    },
+    "evidence_text": "Badan Geologi Kementerian Energi dan Sumber Daya Mineral (ESDM) mendeteksi aktivitas erupsi Gunung Lewotobi Laki-laki di Flores Timur, Nusa Tenggara Timur (NTT), masih berlangsung dengan melontarkan abu vulkanik setinggi 1,4 kilometer dari atas puncak, Selasa.",
+    "confidence": 0.98
+  }
+}

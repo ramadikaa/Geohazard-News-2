@@ -1,0 +1,9 @@
+Tahap,Jumlah
+Raw CSV - baris mentah,4457
+Newswatch - baris panjang,4457
+Artikel unik dari URL,4083
+Setelah QC/preprocessing,4083
+Setelah cleaning/dedup,4083
+Hanya bahasa Indonesia/und,4053
+Siap prompt (duplikasi tepat dihapus),4051
+Gold set berlabel,200

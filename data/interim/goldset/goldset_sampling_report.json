@@ -1,0 +1,45 @@
+{
+  "input_file": "D:\\MAGANGHUB BATCH 3\\Scraper\\geolocation3\\data\\processed\\articles_prompt.csv",
+  "sample_size": 200,
+  "seed": 20261123,
+  "target_per_hazard_group": 25,
+  "actual_hazard_group_allocations": {
+    "gunungapi": 25,
+    "gempabumi": 25,
+    "tsunami": 25,
+    "tanah_longsor": 25,
+    "likuefaksi": 25,
+    "abrasi_pantai": 25,
+    "penurunan_tanah": 25,
+    "semburan_gas_lumpur": 25
+  },
+  "source_distribution": {
+    "antaranews.com": 10,
+    "beritajatim": 5,
+    "beritasatu.com": 13,
+    "betahita.id": 9,
+    "bmkg.go.id": 1,
+    "cnnindonesia.com": 9,
+    "detik.com": 1,
+    "harianjogja.com": 9,
+    "harianrakyataceh.com": 2,
+    "idntimes.com": 6,
+    "inews.id": 11,
+    "jawapos.com": 8,
+    "kompas.com": 15,
+    "liputan6.com": 11,
+    "mongabay.co.id": 9,
+    "okezone.com": 15,
+    "republika.co.id": 10,
+    "rri.co.id": 15,
+    "sindonews.com": 11,
+    "suara.com": 6,
+    "tvonenews.com": 2,
+    "viva.co.id": 9,
+    "www.metrotvnews.com": 13
+  },
+  "output_files": [
+    "goldset_template.csv",
+    "goldset_source_sample.csv"
+  ]
+}

@@ -1,6 +1,8 @@
 .env
 .env.*
 !.env.example
+.enc
+*.enc
 __pycache__/
 *.py[cod]
 data/interim/llm_cache/
